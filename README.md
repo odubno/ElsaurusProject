@@ -1,2 +1,2 @@
-# Elsaurus_Project
-Working a friend's tumblr blog using NLTK and Scikit learn paired with pandas
+# ElsaurusProject
+Scrapping tumblr poems using requests, analyzing the data using NLTK and Scikit to learn about intricacies of the english language.
